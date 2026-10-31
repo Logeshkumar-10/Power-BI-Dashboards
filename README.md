@@ -3,6 +3,8 @@ Here I have some of reports and dashboards created using Power BI. Data were tak
 
 # Reports and Dashboards
 
+> **Created before the AI era.** Every visual, idea and feature in these dashboards was designed by hand, through my own research and learning from LinkedIn, YouTube, blogs, the limited Power BI and Tableau videos available at the time, a Udemy course, and community pages and forums. The Date column is the earliest file date I have for each project.
+
 \# | Title | Date | Power BI Service | PDF | PBIX | Source_Data
 ---|---|---|---|---|---|---|
 01 | IPL Stats | Apr 2023 | [Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMzg2MTMwNjYtOTdhOC00YjBkLWI5OTMtNGVkYzI2MjIxMDVlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) | [PDF](files/IPL-Stats-PPTX.pdf) | [PBIX](pbix/IPL-Stats.pbix) | [Kaggle: IPL analysis](https://www.kaggle.com/datasets/logeshkumar04/ipl-analysis)
